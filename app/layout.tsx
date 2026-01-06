@@ -12,34 +12,33 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Ibrahim Memon - Software Engineer & UI/UX Designer",
-  description: "A self-taught UI/UX designer and Software Engineer at WebHR. Creating meaningful and delightful digital products that balance user needs and business goals. 3+ years of industry experience.",
+  title: "Aman Gautam - Graphic Designer",
+  description: "A self-taught Graphic designer. Creating meaningful and delightful digital products that balance user needs and business goals. 2+ years of industry experience.",
   keywords: [
-    "Ibrahim Memon",
-    "Software Engineer",
-    "UI/UX Designer",
-    "Frontend Developer",
+    "Aman Gautam",
+    "Graphic Designer",
+    "Editor",
+    "Freelancer",
     "React Developer",
     "Next.js Developer",
     "Web Designer",
-    "WebHR Engineer",
     "Portfolio",
   ],
-  authors: [{ name: "Ibrahim Memon" }],
-  creator: "Ibrahim Memon",
-  publisher: "Ibrahim Memon",
+  authors: [{ name: "Aman Gautam" }],
+  creator: "Aman Gautam",
+  publisher: "Aman Gautam",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://ibiimemon.com",
-    title: "Ibrahim Memon - Software Engineer & UI/UX Designer",
-    description: "A self-taught UI/UX designer and Software Engineer at WebHR. Creating meaningful and delightful digital products.",
-    siteName: "Ibrahim Memon Portfolio",
+    url: "https://vipamangautam.com",
+    title: "Aman Gautam - Graphic Designer",
+    description: "A self-taught graphic designer. Creating meaningful and delightful digital products.",
+    siteName: "Aman gautam Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Ibrahim Memon - Software Engineer & UI/UX Designer",
-    description: "A self-taught UI/UX designer and Software Engineer at WebHR.",
+    title: "Aman Gautam - Graphic Designer",
+    description: "A self-taught graphuc designer",
   },
   robots: {
     index: true,
@@ -68,7 +67,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="canonical" href="https://ibiimemon.com" />
+        <link rel="canonical" href="https://vipamangautam.com" />
       </head>
       <body
         className={`${poppins.variable} font-sans antialiased`}
