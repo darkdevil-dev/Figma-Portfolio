@@ -18,9 +18,9 @@ const featuredProjects: Project[] = [
   },
   {
     id: 2,
-    title: "Apple Vision Pro – HR Software Design",
-    description: "A futuristic HR software concept designed for Apple Vision Pro, built in Figma to reimagine attendance, leave tracking, and employee experience - all in one immersive interface.",
-   link: "https://www.figma.com/community/file/1371824014208363481/apple-vision-pro-hr-software-design",
+    title: "Business Promotion Banner & Thumbnail Design",
+    description: "Worked with a local business brand to create high-impact promotional banners and thumbnails for social media marketing and lead generation campaigns. The goal was to attract attention, clearly communicate the offer, and drive inquiries using bold visuals and structured layouts.",
+   link: "https://www.vipamangautam.com/",
     image: "/projects/project-2.png",
   },
 ];
