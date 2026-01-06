@@ -15,17 +15,17 @@ export default function Footer(): React.JSX.Element {
             in mind? Let&apos;s connect.
           </p>
           <a
-            href="mailto:ibii.code@gmail.com"
+            href="mailto:realaman.78@gmail.com"
             className="text-md text-purple-400 hover:text-purple-300 transition-colors"
           >
-            ibii.code@gmail.com
+            realaman.78@gmail.com
           </a>
         </div>
 
         {/* Social Media Icons */}
         <div className="flex justify-center gap-6 mt-12">
           <Link
-            href="https://www.instagram.com/ibii.memon/"
+            href="https://www.instagram.com/a.g4y/"
             target="_blank"
             rel="noopener noreferrer"
             className="w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-white/20 border border-purple-500/30 hover:border-purple-500/50 transition-all"
@@ -40,11 +40,11 @@ export default function Footer(): React.JSX.Element {
             />
           </Link>
           <Link
-            href="https://github.com/ibrahimmemonn"
+            href="https://x.com/realaman78"
             target="_blank"
             rel="noopener noreferrer"
             className="w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-white/20 border border-purple-500/30 hover:border-purple-500/50 transition-all"
-            aria-label="GitHub"
+            aria-label="Twitter"
           >
             <svg
               className="w-5 h-5 text-white"
@@ -55,7 +55,7 @@ export default function Footer(): React.JSX.Element {
             </svg>
           </Link>
           <Link
-            href="https://www.linkedin.com/in/ibrahimmemonn/"
+            href="https://www.linkedin.com/in/aman-kumar-9472b2382/"
             target="_blank"
             rel="noopener noreferrer"
             className="w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-white/20 border border-purple-500/30 hover:border-purple-500/50 transition-all"
@@ -73,7 +73,7 @@ export default function Footer(): React.JSX.Element {
 
         <div className="text-center mt-12 pt-8 border-t border-white/10">
           <p className="text-white/60 text-sm">
-            © {new Date().getFullYear()} Ibrahim Memon. All rights reserved.
+            © {new Date().getFullYear()} Aman Gautam. All rights reserved.
           </p>
         </div>
       </div>
