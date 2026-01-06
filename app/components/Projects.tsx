@@ -11,9 +11,9 @@ interface Project {
 const featuredProjects: Project[] = [
   {
     id: 1,
-    title: "NeuraWeb – Futuristic AI Website Landing Design",
-    description: "A sleek, dark-themed AI-powered landing page concept built in Figma. Designed for modern startups and futuristic digital products, it features glowing neon visuals, immersive UI, and a dynamic tone. The design encapsulates the cutting-edge possibilities of AI and tech, offering a glimpse into the future of online experiences for tech-forward companies.",
-    link: "https://www.figma.com/community/file/1441377868897233703/ai-website-landing-design",
+    title: "Education Academy Promotion Creatives",
+    description: "Designed a complete social media creative set for a coaching institute including Instagram posts, promotional banners, and YouTube thumbnails. The objective was to increase course inquiries and improve brand trust through clean layouts, strong typography, and clear call-to-action focused designs.",
+    link: "https://www.vipamangautam.com/",
     image: "/projects/project-1.png",
   },
   {
