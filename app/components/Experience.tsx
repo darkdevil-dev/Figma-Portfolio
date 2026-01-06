@@ -11,26 +11,26 @@ interface ExperienceCard {
 const experienceCards: ExperienceCard[] = [
   {
     id: 1,
-    title: "WebHR - HR Management App",
-    description: "WebHR automates all of your company's HR processes such as Recruitment, Onboarding, Payroll, Time & Attendance, Leaves & PTO, Performance, and much more.",
+    title: "Freelance Graphic Designer",
+    description: "Worked independently with coaching institutes, education academies, and local businesses to design result-driven social media creatives, ad visuals, banners, and thumbnails.",
     icon: "/cards/card-1.png",
   },
   {
     id: 2,
-    title: "WebHR Kiosk - Time Clock Kiosk",
-    description: "WebHR Kiosk is a time clock kiosk that allows you to clock in and out of your work. It is a simple and easy to use app that allows you to clock in and out of your work.",
+    title: "Social Media & Ads Creative Specialist",
+    description: "Delivered Instagram posts, reel covers, YouTube thumbnails, and promotional banners focused on lead generation, brand visibility, and higher engagement.",
     icon: "/cards/card-2.png",
   },
   {
     id: 3,
-    title: "Somezing - AI-Powered Agents",
-    description: "Somezing is a AI-Powered Agents to Automate Your Workflows. It is a simple and easy to use app that allows you to automate your workflows.",
+    title: "Content & Thumbnail Designer",
+    description: "Designed YouTube thumbnails, reel covers, and promotional creatives with a strong focus on click-through rate.",
     icon: "/cards/card-3.png",
   },
   {
     id: 4,
-    title: "FileIT - File Sharing App",
-    description: "FileIT is a file sharing app that allows you to share files with your friends and family. It is a simple and easy to use app that allows you to share files with your friends and family.",
+    title: "Brand Identity & Visual Design Projects",
+    description: "Worked on multiple brand identity projects including logos, color palettes, typography systems, and brand guidelines.",
     icon: "/cards/card-4.png",
   },
 ];
@@ -65,7 +65,7 @@ export default function Experience(): React.JSX.Element {
                 {card.description}
               </p>
               <Link
-                href="https://ibiimemon.com/lab"
+                href="https://vipamangautam.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-purple-400 hover:text-purple-300 font-medium text-sm transition-colors inline-block"
